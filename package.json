@@ -1,0 +1,17 @@
+{
+  "name": "bun-hono-restful-api",
+  "scripts": {
+    "dev": "bun run --hot src/index.ts"
+  },
+  "dependencies": {
+    "@prisma/adapter-libsql": "^7.2.0",
+    "@prisma/client": "^7.2.0",
+    "hono": "^4.11.3",
+    "winston": "^3.19.0",
+    "zod": "^4.3.4"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "prisma": "^7.2.0"
+  }
+}

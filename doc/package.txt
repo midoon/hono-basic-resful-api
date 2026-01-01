@@ -1,0 +1,4 @@
+bun add zod
+bun add -d prisma
+bun add @prisma/client @prisma/adapter-libsql
+bun add winston
