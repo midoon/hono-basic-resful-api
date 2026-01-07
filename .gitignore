@@ -60,3 +60,5 @@ Thumbs.db
 # Misc
 # =========================
 *.tsbuildinfo
+
+/src/generated/prisma
